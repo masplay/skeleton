@@ -3,16 +3,14 @@
 namespace App\System;
 
 /**
- * Class App
- * @package App\System
+ * Class App.
  */
 class App
 {
     /**
-     * Run application
+     * Run application.
      */
     public function run()
     {
-
     }
 }
