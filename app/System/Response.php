@@ -1,14 +1,10 @@
 <?php
 
-
 namespace App\System;
 
-
 /**
- * Class Response
- * @package App\System
+ * Class Response.
  */
 class Response
 {
-
 }

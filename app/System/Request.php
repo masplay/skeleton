@@ -3,10 +3,8 @@
 namespace App\System;
 
 /**
- * Class Request
- * @package App\System
+ * Class Request.
  */
 class Request
 {
-
 }
