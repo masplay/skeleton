@@ -2,12 +2,9 @@
 
 namespace App\Controllers;
 
-
 /**
- * Class Controller
- * @package App\Controllers
+ * Class Controller.
  */
 class Controller
 {
-
 }

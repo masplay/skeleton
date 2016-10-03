@@ -2,12 +2,9 @@
 
 namespace App\System;
 
-
 /**
- * Class Model
- * @package App\System
+ * Class Model.
  */
 class Model
 {
-
 }
